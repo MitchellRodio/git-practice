@@ -21,6 +21,6 @@ Three step commit process
 * Add any changed files to the stage
     git add filename.rb
 * Commit the staged files
-    git commit -m "Descriptive commit message to myself and others"
+    git commit -m "Descriptive commit message to myself and others" (Present Tense "Add" not "Added")
 
 
